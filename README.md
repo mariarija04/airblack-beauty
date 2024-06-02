@@ -1,4 +1,7 @@
 # Welcome to my Expo app 👋
+![Screenshot 2024-06-02 211024](https://github.com/mariarija04/airblack-beauty/assets/146249995/6178143f-f433-4dd2-aba7-70633401b972)  
+![Screenshot 2024-06-02 211521](https://github.com/mariarija04/airblack-beauty/assets/146249995/aaba2929-fc96-4ca9-a24d-4d192c352535)
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
